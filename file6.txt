@@ -1,0 +1,2 @@
+file6.txt is being created and shown in first line
+
