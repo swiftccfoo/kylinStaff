@@ -1,1 +1,2 @@
 this is a new file4.txt to place once that deleted
+enter the 2nd line as modification of file4.txt
